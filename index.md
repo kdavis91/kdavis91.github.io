@@ -36,8 +36,18 @@ My open source offerings.
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-
+                     Predicting Bitcoin price using K-means (source code to follow)
 
 ![alt text](test.gif "Logo Title Text 1")
                        
