@@ -1,4 +1,9 @@
-<!-- my-page.html --> 
+<img src="avatar.jpg" align="left" height="50" width="50" >
+
+# Kyle Davis 
+
+
+
 
 ### Data Science and Physics problems.
 
