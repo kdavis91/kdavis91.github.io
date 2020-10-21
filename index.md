@@ -7,7 +7,7 @@
 My open source offerings.
 
 	
-Precicting UK House prices using ARIMA forecasting [![alt text](/unnamed-chunk-19-1.png)]
-(https://rpubs.com/kdavis91_/UK_Housing_forecast "UK_Housing_forecast")
+Precicting UK House prices using ARIMA forecasting:
+[![alt text](/unnamed-chunk-19-1.png)](https://rpubs.com/kdavis91_/UK_Housing_forecast "UK_Housing_forecast")
 
 
