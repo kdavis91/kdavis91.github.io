@@ -46,6 +46,6 @@ My open source offerings.
 
                      Predicting Bitcoin price using K-means (source code to follow)
 
-![alt text](test.gif "Logo Title Text 1")
+![alt text](test.gif "K means bitcoin")
                        
                 
