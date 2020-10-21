@@ -24,12 +24,21 @@ My open source offerings.
 
 
 <a href="https://rpubs.com/kdavis91_/UK_Housing_forecast"><img src="unnamed-chunk-19-1.png" align="left" height="500" width="650" ></a>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 
-
-                       Predicting Bitcoin price using s2f (source code to follow)
-
-g
+![alt text](test.gif "Logo Title Text 1")
                        
                 
