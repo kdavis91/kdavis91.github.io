@@ -7,8 +7,7 @@
 <br>
 
 <br>
-
-###                                  
+                               
 
 ### Data Science and Physics problems.
 
