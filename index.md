@@ -1,4 +1,4 @@
-<img src="avatar.jpg" align="left" height="50" width="50" >
+<img src="avatar.jpg" align="left" height="150" width="150" >
 
 # Kyle Davis 
 
