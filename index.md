@@ -6,7 +6,6 @@
 
 <br>
 
-<br>
                                
 
 ### Data Science and Physics problems.
@@ -27,7 +26,6 @@ My open source offerings.
 <br>
 <br>
 
-<br>
 <br>
 <br>
 <br>
