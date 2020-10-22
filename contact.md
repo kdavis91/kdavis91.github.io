@@ -7,7 +7,7 @@ order: 1
 ---
 
 <form action="https://formspree.io/f/xyybwdgg" method="POST">
-  Email address: &nbsp;&nbsp;<input type="text" name="name">
+  Email address: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" name="name">
   <br>
   Message: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="email" name="_replyto">
   <input type="submit" value="Send">
