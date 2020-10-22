@@ -9,7 +9,11 @@ locale:       "en"
 # About/contact
 author:
   name:       Kyle Davis
+  avatar:     "/avatar.jpg"
+  location:   "Somwhere, UK"
   url:        kdavis91.github.io
+  github:     "https://github.com/kdavis91"
+  keybase:    "tensorinsights*keybase.io"
 
 # Gems
 gems:
