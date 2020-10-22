@@ -34,6 +34,9 @@ My open source offerings.
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 
 >Predicting Bitcoin price using K-means (source code to follow)
 
