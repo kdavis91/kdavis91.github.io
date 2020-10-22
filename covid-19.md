@@ -1,14 +1,11 @@
-theme: jekyll-theme-cayman
+---
+layout: page
+title: Covid-19 stats
+tagline:
+ref: covid-19
+order: 2
+---
 
-<div class="vertical-menu">
-  <a href="index.md" class="active">| Home </a>
-  <a href="About.md">| About </a>
-  <a href="covid-19.md">| Covid-19 stats </a>
-  <a href="contact.md">| Contact |</a>
-</div>
+Jekyll is a great tool to create static sites but with static site, there's no backend to send your data to: that is why you need a third part service.
 
-
-
-<script src="https://apps.elfsight.com/p/platform.js" defer></script>
-
-<div class="elfsight-app-52c00415-bc8f-4c5a-96ad-6269e9cc60b7"></div>
+[Go to the Home Page]({{ '/' | absolute_url }})
