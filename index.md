@@ -30,7 +30,7 @@ My open source offerings.
 
 
 
-<a href="https://rpubs.com/kdavis91_/UK_Housing_forecast"><img src="unnamed-chunk-19-1.png" align="left" height="500" width="650" ></a>
+<a href="https://rpubs.com/kdavis91_/UK_Housing_forecast"><img src="chunk.png" align="left" height="450" width="550" ></a>
 <br>
 <br>
 <br>
