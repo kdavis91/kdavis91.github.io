@@ -6,6 +6,6 @@ ref: covid-19
 order: 2
 ---
 
-Jekyll is a great tool to create static sites but with static site, there's no backend to send your data to: that is why you need a third part service.
+<div class="elfsight-app-52c00415-bc8f-4c5a-96ad-6269e9cc60b7"></div>
 
 [Go to the Home Page]({{ '/' | absolute_url }})
