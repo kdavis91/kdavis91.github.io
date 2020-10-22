@@ -32,6 +32,15 @@ order: 0
 |
 </div>
 
+Don't trust, verify! 
+
+I am proving ownership of the github account by posting this as a gist.
+### My publicly-auditable identity:
+https://keybase.io/tensorinsights
+### From the command line:
+Consider the [keybase command line program](https://keybase.io/download).
+```bash# look me upkeybase id tensorinsights```
+
 ## Technical skills
 <div>
 * <i class="fab fa-r-project"></i> <a href="https://www.r-project.org/">R</a>
