@@ -6,6 +6,10 @@ ref: contact
 order: 1
 ---
 
-Jekyll is a great tool to create static sites but with static site, there's no backend to send your data to: that is why you need a third part service.
+<form action="https://formspree.io/f/xyybwdgg" method="POST">
+  <input type="text" name="name">
+  <input type="email" name="_replyto">
+  <input type="submit" value="Send">
+</form>
 
 [Go to the Home Page]({{ '/' | absolute_url }})
