@@ -9,7 +9,7 @@ order: 1
 <form action="https://formspree.io/f/xyybwdgg" method="POST">
   Email address:&ensp;<input type="text" name="name">
   <br>
-  Message:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<input type="email" name="_replyto">
+  Message:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<input type="email" name="_replyto">
   <input type="submit" value="Send">
 </form>
 
