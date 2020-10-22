@@ -26,7 +26,7 @@ order: 0
 |
 <i class="fa fa-github"></i> <a href="http://github.com/kdavis91">kdavis91</a>
 |
-<i class="fab fa-keybase"></i> <a href="tensorinsights*keybase.io">tensorinsights</a>
+<i class="fab fa-keybase"></i> <a href="https://keybase.io/tensorinsights">tensorinsights</a>
 |
 <i class="fa fa-btc"></i> <a href="https://www.blockonomics.co/img/pay_with_bitcoin_medium.png">Pay</a>
 |
@@ -35,16 +35,16 @@ order: 0
 ## Technical skills
 <div>
 * <i class="fab fa-r-project"></i> <a href="https://www.r-project.org/">R</a>
-* <i class="fas fa-tablet-alt"></i> <a href="https://www.r-project.org/">R Shiny</a>
-* <i class="fab fa-python"></i> <a href="https://www.r-project.org/">Python</a>
-* <i class="fab fa-html5"></i> <a href="https://www.r-project.org/">HTML</a>
-* <i class="fab fa-css3-alt"></i> <a href="https://www.r-project.org/">CSS</a>
-* <i class="fab fa-markdown"></i> <a href="https://www.r-project.org/">Markdown</a>
-* <i class="fas fa-slash"></i> <a href="https://www.r-project.org/">LaTeX</a>
-* <i class="fas fa-database"></i> <a href="https://www.r-project.org/">SQL</a>
-* <i class="fab fa-linux"></i> <a href="https://www.r-project.org/">Linux</a>
-* <i class="fab fa-aws"></i> <a href="https://www.r-project.org/">AWS</a>
-* <i class="fas fa-meteor"></i> <a href="https://www.r-project.org/">Computational Astrophysics</a>
+* <i class="fas fa-tablet-alt"></i> <a href="https://shiny.rstudio.com/">R Shiny</a>
+* <i class="fab fa-python"></i> <a href="https://www.python.org/">Python</a>
+* <i class="fab fa-html5"></i> <a href="">HTML</a>
+* <i class="fab fa-css3-alt"></i> <a href="">CSS</a>
+* <i class="fab fa-markdown"></i> <a href="">Markdown</a>
+* <i class="fas fa-slash"></i> <a href="">LaTeX</a>
+* <i class="fas fa-database"></i> <a href="">SQL</a>
+* <i class="fab fa-linux"></i> <a href="">Linux</a>
+* <i class="fab fa-aws"></i> <a href="https://aws.amazon.com/">AWS</a>
+* <i class="fas fa-meteor"></i> <a href="">Computational Astrophysics</a>
 </div>
 ## Areas of expertise
 
