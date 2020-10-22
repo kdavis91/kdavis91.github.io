@@ -22,13 +22,13 @@ order: 0
 
 
 <div id="webaddress">
-<a href="mailto:ben@blm.io">ben@blm.io</a>
+<a href="mailto:kdd91@protonmail.com">kdd91@protonmail.com</a>
 |
 <i class="fa fa-github"></i> <a href="http://github.com/kdavis91">kdavis91</a>
 |
-<i class="fa fa-keybase"></i> <a href="tensorinsights*keybase.io">tensorinsights</a>
+<i class="fab fa-keybase"></i> <a href="tensorinsights*keybase.io">tensorinsights</a>
 
-<i class="fa fa-btc"></i> <a href="https://www.blockonomics.co/img/pay_with_bitcoin_medium.png">tensorinsights</a>
+<i class="fa fa-btc"></i> <a href="https://www.blockonomics.co/img/pay_with_bitcoin_medium.png">Pay</a>
 
 </div>
 
