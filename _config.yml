@@ -5,6 +5,7 @@ tagline:      Data Science and Physics problems on GitHub Pages
 baseurl:      ""
 paginate:     1
 locale:       "en"
+share: true
 
 # About/contact
 author:
