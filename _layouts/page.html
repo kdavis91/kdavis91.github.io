@@ -2,6 +2,21 @@
 layout: default
 ---
 
-{% include page-header.html %}
+<!DOCTYPE html>
+<html lang="{{ site.locale }}">
+  
+  {% include head.html %}
 
-{{ content }}
+  <body>
+    {% include page-header.html %}
+
+    <section class="main-content">
+      
+      {{ content }}
+
+      {% include page-footer.html %}
+
+    </section>
+
+  </body>
+</html>
