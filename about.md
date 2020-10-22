@@ -4,6 +4,7 @@ title: About
 tagline: About
 permalink: /about.html
 ref: about
+author_profile: true
 
 # About
 author:
