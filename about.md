@@ -17,11 +17,9 @@ author:
 order: 0
 ---
 
----
-layout: cv
-title: Kyle Davis CV
----
 # Kyle Davis
+
+
 
 <div id="webaddress">
 <a href="mailto:ben@blm.io">ben@blm.io</a>
