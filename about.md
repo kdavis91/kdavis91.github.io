@@ -35,8 +35,8 @@ order: 0
 ## Technical skills
 <div>
 * <i class="fab fa-r-project"></i> <a href="https://www.r-project.org/">R</a>
-* Shiny applications
-* Python
+* <i class="fas fa-tablet-alt"></i> <a href="https://www.r-project.org/">R Shiny</a>
+* <i class="fab fa-python"></i> <a href="https://www.r-project.org/">Python</a>
 * HTML,CSS & Markdown
 * LaTeX
 * Bash
