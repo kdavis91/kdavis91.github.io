@@ -2,7 +2,7 @@
 # Setup
 title:        kdavis91.github.io
 tagline:      Data Science and Physics problems on GitHub Pages
-baseurl:      "https://pietromenna.github.io/jekyll-cayman-theme"
+baseurl:      ""
 paginate:     1
 locale:       "en"
 
