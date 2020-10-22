@@ -12,6 +12,8 @@ order: 1
   <input type="submit" value="Send">
 </form>
 
-Buy me a coffee <a href="" class="blockoPayBtn" data-toggle="modal" data-uid=30745ee8144a11eb><img width=160 src="https://www.blockonomics.co/img/pay_with_bitcoin_medium.png"></a>
+Buy me a coffee:
+<br>
+<a href="https://www.blockonomics.co/pay-url/30745ee8144a11eb" class="blockoPayBtn" data-toggle="modal" data-uid=30745ee8144a11eb><img width=160 src="https://www.blockonomics.co/img/pay_with_bitcoin_medium.png"></a>
 
 [Go to the Home Page]({{ '/' | absolute_url }})
