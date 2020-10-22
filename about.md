@@ -27,26 +27,25 @@ order: 0
 <i class="fa fa-github"></i> <a href="http://github.com/kdavis91">kdavis91</a>
 |
 <i class="fab fa-keybase"></i> <a href="tensorinsights*keybase.io">tensorinsights</a>
-
+|
 <i class="fa fa-btc"></i> <a href="https://www.blockonomics.co/img/pay_with_bitcoin_medium.png">Pay</a>
-
+|
 </div>
 
 ## Technical skills
-
-* R
+<div>
+* <i class="fab fa-r-project"></i> <a href="https://www.r-project.org/">R</a>
+* Shiny applications
 * Python
-* Javascript (incl. Typescript, Angular)
-* Go
-* HTML and CSS
+* HTML,CSS & Markdown
 * LaTeX
 * Bash
-* Git / Mercurial
-* UNIX
-* Cluster computing
+* Git
+* Linux
+* Computational Physics
 * Docker
 * AWS
-
+</div>
 ## Areas of expertise
 
 * Bioinformatics
