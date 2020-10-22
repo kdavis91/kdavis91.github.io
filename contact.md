@@ -14,6 +14,10 @@ order: 1
     Your email:
     <input type="text" name="_replyto">
   </label>
+  
+  <br>
+  <br>
+  
   <label>
     Your message:
     <textarea name="message"></textarea>
