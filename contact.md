@@ -6,6 +6,8 @@ ref: contact
 order: 1
 ---
 
+### Contact:
+
 <form action="https://formspree.io/f/xyybwdgg" method="POST">
   Email address:&ensp;<input type="text" name="name">
   <br>
@@ -13,6 +15,8 @@ order: 1
   Message:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<input type="email" name="_replyto">
   <input type="submit" value="Send">
 </form>
+
+For secure end-end encrypted chat, contact me here <a href="https://keybase.io/tensorinsights">
 
 Buy me a coffee:
 <br>
