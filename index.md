@@ -26,34 +26,34 @@
 My open source offerings.
 
 
-                       Predicting UK House prices using ARIMA forecasting:
+>Predicting UK House prices using ARIMA forecasting:                       
 
 
 
-<a href="https://rpubs.com/kdavis91_/UK_Housing_forecast"><img src="chunk.png" align="left" height="450" width="550" ></a>
-<br>
-<br>
-<br>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<a href="https://rpubs.com/kdavis91_/UK_Housing_forecast"><img src="chunk.png" align="left" height="350" width="450" ></a>
 <br>
 <br>
 <br>
 
-                     Predicting Bitcoin price using K-means (source code to follow)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+>Predicting Bitcoin price using K-means (source code to follow)
 
 ![alt text](test.gif "K means bitcoin")
                        
