@@ -1,7 +1,7 @@
 
 # Setup
 title:        kdavis91.github.io
-tagline:      A responsive theme for your project on GitHub Pages
+tagline:      Data Science and Physics problems on GitHub Pages
 baseurl:      "https://pietromenna.github.io/jekyll-cayman-theme"
 paginate:     1
 locale:       "en"
