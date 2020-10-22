@@ -1,11 +1,4 @@
 
-<div class="vertical-menu">
-  <a href="index.html" class="active">| Home </a>
-  <a href="about.html">| About </a>
-  <a href="covid-19.html">| Covid-19 </a>
-  <a href="contact.html">| Contact |</a>
-</div>
-
 
 <img src="avatar.jpg" align="left" height="150" width="150" >
 
