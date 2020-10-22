@@ -1,7 +1,4 @@
-
-{% for js in page.customjs %}
-<script async type="text/javascript" src="{{ js }}"></script>
-{% endfor %}
+theme: jekyll-theme-cayman
 
 <div class="vertical-menu">
   <a href="index.md" class="active">| Home </a>
