@@ -37,31 +37,28 @@ order: 0
 * <i class="fab fa-r-project"></i> <a href="https://www.r-project.org/">R</a>
 * <i class="fas fa-tablet-alt"></i> <a href="https://www.r-project.org/">R Shiny</a>
 * <i class="fab fa-python"></i> <a href="https://www.r-project.org/">Python</a>
-* HTML,CSS & Markdown
-* LaTeX
-* Bash
-* Git
-* Linux
-* Computational Physics
-* Docker
-* AWS
+* <i class="fab fa-html5"></i> <a href="https://www.r-project.org/">HTML</a>
+* <i class="fab fa-css3-alt"></i> <a href="https://www.r-project.org/">CSS</a>
+* <i class="fab fa-markdown"></i> <a href="https://www.r-project.org/">Markdown</a>
+* <i class="fas fa-slash"></i> <a href="https://www.r-project.org/">LaTeX</a>
+* <i class="fas fa-database"></i> <a href="https://www.r-project.org/">SQL</a>
+* <i class="fab fa-linux"></i> <a href="https://www.r-project.org/">Linux</a>
+* <i class="fab fa-aws"></i> <a href="https://www.r-project.org/">AWS</a>
+* <i class="fas fa-meteor"></i> <a href="https://www.r-project.org/">Computational Astrophysics</a>
 </div>
 ## Areas of expertise
 
-* Bioinformatics
+* Astrophysics
 * Statistics
 * Machine learning
 * Data visualisation
-* Software development
-* NGS and variant calling
+* Application development
 
 ## Projects
 
 ### github
 
-My [personal github account](https://github.com/blmoore) hosts my hobby development projects as well as listing contributions to open source tools. Examples include: shiny apps [blackspot](https://github.com/blmoore/blackspot) and [shinybrot](https://github.com/blmoore/shinybrot), as well as an R package hosted by CRAN ([mandelbrot](https://github.com/blmoore/mandelbrot)).
-
-
+My [personal github account](https://github.com/kdavis91) hosts my hobby development projects as well as listing contributions to open source tools. 
 
 
 
