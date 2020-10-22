@@ -16,7 +16,7 @@ order: 1
   <input type="submit" value="Send">
 </form>
 
-For secure end-end encrypted chat, contact me here <a href="https://keybase.io/tensorinsights">
+For secure end-end encrypted chat, contact me <a href="https://keybase.io/tensorinsights">here.</a>
 
 Buy me a coffee:
 <br>
