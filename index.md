@@ -18,6 +18,11 @@
 
 My open source offerings.
 
+>Neural painting
+
+<img src="59d54a2e2257f94d3fcb865ac6fcb88ad336f918.jpg" align="left" height="300" width="300" >
+<img src="74cf1e7bdf2330a2d3a35657a98371096d087384.jpg" align="left" height="300" width="300" >
+
 
 >Predicting UK House prices using ARIMA forecasting:                       
 
